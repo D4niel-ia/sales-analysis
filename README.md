@@ -38,7 +38,7 @@ sales-analysis/
 
 ## 📸 Exemplos de Gráficos
 ![Receita Mensal](prints/revenue_month.png)  
-![Receita por Produto](prints/revenue_by_product.png)
+![Distribuição por método de pagamento](prints/revenue_payment.png)
 
 ---
 
